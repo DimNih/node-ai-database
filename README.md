@@ -86,6 +86,6 @@ Setelah instalasi selesai, jalankan server dengan perintah berikut:
 node server.js
 ```
 
-# Salama INTERAKSI BUN...
+# SALAM INTERAKSI BUN...
 
 ---
