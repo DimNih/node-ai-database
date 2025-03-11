@@ -15,15 +15,15 @@ Pastikan Anda telah menginstal:
 
 1. **Masukan Ke folder Public/index.html:**
    ```sh
-  <!DOCTYPE html>
-<html lang="en">
-<head>
+     <!DOCTYPE html>
+   <html lang="en">
+   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI CHAT</title>
     <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gradient-to-r from-cyan-500 to-blue-500 min-h-screen p-5 flex flex-col justify-center items-center">
+   </head>
+   <body class="bg-gradient-to-r from-cyan-500 to-blue-500 min-h-screen p-5 flex flex-col justify-center items-center">
     <h1 class="text-3xl font-bold text-white mb-4">AI CHAT</h1>
     <div class="w-full max-w-2xl bg-white rounded-2xl shadow-lg">
         <div id="chatBox" class="h-96 overflow-y-auto p-6 bg-gray-800">
@@ -64,8 +64,8 @@ Pastikan Anda telah menginstal:
             if (e.key === 'Enter') sendMessage();
         });
     </script>
-</body>
-</html>
+   </body>
+   </html>
    ```
 
 2. **Instal dependensi:**
